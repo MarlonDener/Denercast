@@ -1,6 +1,6 @@
-<h2>Podcast application</h2>
+<h2>Podcast</h2>
   
-<p>This application was developed at the rocketseat event, with some changes in the layout.</p>
+<p>Um sistema de podcast, utilizando React.js + Next.js</p>
 
 ![image](https://user-images.githubusercontent.com/70349830/116023067-d30e6680-a621-11eb-8fff-82a620a731fa.png)
 
@@ -25,5 +25,4 @@
 
 
 
-
-Thank you !
+Muito obrigado !
