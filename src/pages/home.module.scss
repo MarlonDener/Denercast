@@ -61,7 +61,7 @@
                     font-family: Lexend, sans-serif;
                     font-weight: 600;
                     text-decoration: none;
-                    line-height: 1.4rem;
+                    line-height: 1.rem;
                     &.hover{
                         text-decoration: underline;
                     }
@@ -82,8 +82,8 @@
                     font-size: 0.875;
 
                     &:last-child{
-                        margin-left: 0.5rem;
-                        padding-left: 0.5rem;
+                        margin-left: 0.6rem;
+                        padding-left: 0.6rem;
                         position: relative;
 
                         &::before{
@@ -163,13 +163,14 @@
         a {
             color:var(--gray-800);
             font-family: Lexend, sans-serif;
-            font-weight: 600;
+            font-weight: 500;
             text-decoration: none;
             line-height: 1.4rem;
             font-size: 1rem;
 
             &.hover{
-                text-decoration: underline;
+                text-decoration: display;
+                color:#ccc;
             }
         }
 
